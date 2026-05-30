@@ -1,8 +1,16 @@
 streamlit
+python-dotenv
 yt-dlp
 openai-whisper
 torch
+torchvision
 transformers
 sentence-transformers
-ffmpeg-python
+google-api-python-client
+pandas
+numpy
+scikit-learn
+matplotlib
+wordcloud
+keybert
 protobuf
